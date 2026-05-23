@@ -1,0 +1,57 @@
+{
+  "appTitle": "Sighra",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  
+  "tabBreathing": "Breathe",
+  "tabStats": "Stats",
+  "tabSounds": "Sounds",
+  "tabSettings": "Settings",
+  
+  "exerciseBoxTitle": "Box Breathing (4-4-4-4)",
+  "exerciseBoxDesc": "Equal duration inhale, hold, exhale, and hold for deep neural balance.",
+  "exercise478Title": "4-7-8 Technique",
+  "exercise478Desc": "Dr. Weil's natural tranquilizer for the nervous system, helpful for sleep.",
+  "exerciseCardioTitle": "Cardiac Coherence (5-5)",
+  "exerciseCardioDesc": "Stabilizes heart rate, reduces cortisol levels and general stress.",
+  
+  "stateIdle": "Tap to Start",
+  "stateInhale": "Inhale",
+  "stateHoldIn": "Hold",
+  "stateExhale": "Exhale",
+  "stateHoldOut": "Rest & Hold",
+  "stateCompleted": "Well Done",
+  
+  "statsHeader": "Calm Stats",
+  "statsMinutesBreathed": "Total Minutes",
+  "statsSessionsCount": "Sessions Done",
+  "statsActiveStreak": "Daily Streak",
+  "statsHistoryTitle": "Recent Calming Sessions",
+  "statsEmptyHistory": "No breathing sessions logged. Practice now to find calm.",
+  
+  "soundTitle": "Focus Sounds",
+  "soundSubtitle": "High-fidelity ambient noise mixer, available completely offline.",
+  "soundBrownNoise": "Brown Noise",
+  "soundOcean": "Calm Ocean",
+  "soundRain": "Forest Rain",
+  "soundPinkNoise": "Pink Noise",
+  "soundSolfeggio": "Solfeggio 528 Hz",
+  
+  "settingsLanguage": "Language",
+  "settingsTheme": "Appearance (Dark Mode)",
+  "settingsHaptics": "Vibration Guides",
+  "settingsHapticsDesc": "Pulse guides during state transitions for zero-eyes breathing.",
+  "settingsAbout": "About Sighra",
+  "settingsDonate": "Support Sighra (Buy Me a Coffee)",
+  "settingsBackup": "Local Backup & Restore",
+  
+  "btnCancel": "Cancel",
+  "btnSave": "Save",
+  "btnDelete": "Delete",
+  "btnConfirm": "Confirm",
+  "btnBuyCoffee": "Buy me a coffee ☕",
+  
+  "settingsBackupSuccess": "Data exported successfully",
+  "settingsRestoreSuccess": "Data restored successfully"
+}

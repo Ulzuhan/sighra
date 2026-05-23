@@ -1,0 +1,53 @@
+{
+  "appTitle": "Sighra",
+  "tabBreathing": "Respirar",
+  "tabStats": "Estadísticas",
+  "tabSounds": "Sonidos",
+  "tabSettings": "Ajustes",
+  
+  "exerciseBoxTitle": "Respiración de Caja (4-4-4-4)",
+  "exerciseBoxDesc": "Duraciones iguales de inhalar, retener, exhalar y retener para un balance profundo.",
+  "exercise478Title": "Técnica 4-7-8",
+  "exercise478Desc": "El tranquilizante natural del Dr. Weil para el sistema nervioso, ideal para conciliar el sueño.",
+  "exerciseCardioTitle": "Coherencia Cardíaca (5-5)",
+  "exerciseCardioDesc": "Estabiliza el ritmo cardíaco, reduce los niveles de cortisol y el estrés general.",
+  
+  "stateIdle": "Toca para Iniciar",
+  "stateInhale": "Inhala",
+  "stateHoldIn": "Retén",
+  "stateExhale": "Exhala",
+  "stateHoldOut": "Descansa y Retén",
+  "stateCompleted": "Bien Hecho",
+  
+  "statsHeader": "Estadísticas de Calma",
+  "statsMinutesBreathed": "Minutos Totales",
+  "statsSessionsCount": "Sesiones Hechas",
+  "statsActiveStreak": "Racha de Días",
+  "statsHistoryTitle": "Sesiones Calmantes Recientes",
+  "statsEmptyHistory": "No hay sesiones registradas. Practica ahora para encontrar calma.",
+  
+  "soundTitle": "Sonidos de Enfoque",
+  "soundSubtitle": "Mezclador de ruido ambiental offline de alta fidelidad.",
+  "soundBrownNoise": "Ruido Marrón",
+  "soundOcean": "Olas del Mar",
+  "soundRain": "Lluvia Sutil",
+  "soundPinkNoise": "Ruido Rosa",
+  "soundSolfeggio": "Solfeggio 528 Hz",
+  
+  "settingsLanguage": "Idioma",
+  "settingsTheme": "Apariencia (Modo Oscuro)",
+  "settingsHaptics": "Guías de Vibración",
+  "settingsHapticsDesc": "Guía mediante vibraciones en transiciones para respirar sin mirar la pantalla.",
+  "settingsAbout": "Sobre Sighra",
+  "settingsDonate": "Apoyar el proyecto (Buy Me a Coffee)",
+  "settingsBackup": "Copia de Seguridad Local",
+  
+  "btnCancel": "Cancelar",
+  "btnSave": "Guardar",
+  "btnDelete": "Eliminar",
+  "btnConfirm": "Confirmar",
+  "btnBuyCoffee": "Invítame a un café ☕",
+  
+  "settingsBackupSuccess": "Datos exportados correctamente",
+  "settingsRestoreSuccess": "Datos restaurados correctamente"
+}
