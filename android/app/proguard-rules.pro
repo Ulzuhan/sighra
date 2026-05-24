@@ -29,3 +29,12 @@
 # =====================================================================
 -keep class com.android.billingclient.** { *; }
 -keep class io.flutter.plugins.inapppurchase.** { *; }
+
+# =====================================================================
+# Google Play Core (deferred components / SplitCompat)
+# Flutter's embedding references these classes even when the app does
+# not use Play Store dynamic delivery. Tell R8 to ignore them.
+# =====================================================================
+-dontwarn com.google.android.play.core.**
+-dontwarn io.flutter.embedding.android.FlutterPlayStoreSplitApplication
+-dontwarn io.flutter.embedding.engine.deferredcomponents.**

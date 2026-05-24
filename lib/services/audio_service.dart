@@ -40,7 +40,7 @@ class AudioService {
       if (cleanVol > 0.0) {
         await player.setVolume(cleanVol);
         if (!player.playing) {
-          final assetPath = 'assets/sounds/$trackId.mp3';
+          final assetPath = 'assets/sounds/$trackId.wav';
           try {
             await player.setAsset(assetPath);
             await player.play();
